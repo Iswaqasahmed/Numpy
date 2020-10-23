@@ -1,0 +1,6 @@
+{
+    "typescript.suggest.completeFunctionCalls": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "python.dataScience.magicCommandsAsComments": true,
+    "python.dataScience.ignoreVscodeTheme": true
+}
